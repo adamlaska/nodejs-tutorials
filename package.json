@@ -25,7 +25,7 @@
     "p-iteration": "~1.1.8",
     "progress": "~2.0.3",
     "youch": "~2.0.10",
-    "youch-terminal": "~1.0.0"
+    "youch-terminal": "~1.1.0"
   },
   "devDependencies": {
     "@hapi/code": "~5.3.1",
