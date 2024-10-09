@@ -24,7 +24,7 @@
     "lodash": "~4.17.11",
     "p-iteration": "~1.1.8",
     "progress": "~2.0.3",
-    "youch": "~2.0.10",
+    "youch": "~3.3.4",
     "youch-terminal": "~1.0.0"
   },
   "devDependencies": {
